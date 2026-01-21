@@ -142,10 +142,4 @@ npm run preview
 Made by **OG**
 
 ```
-
-If you want, I can also write a **more professional README** with:
-- screenshots section
-- live demo link section
-- badges (React/Vite)
-- proper project description for recruiters
 ```
